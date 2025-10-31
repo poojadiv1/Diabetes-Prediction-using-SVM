@@ -25,6 +25,7 @@ Pandas / NumPy
 Matplotlib / Seaborn
 ipywidgets (Interactive UI)
 
+
 <img width="790" height="672" alt="image" src="https://github.com/user-attachments/assets/d5b24236-6990-487b-a3c7-30782101603a" />
 
 <img width="538" height="374" alt="image" src="https://github.com/user-attachments/assets/5734a989-388a-46ef-a1f4-ef984e9ba4ce" />
@@ -35,7 +36,9 @@ ipywidgets (Interactive UI)
 
 <img width="396" height="427" alt="image" src="https://github.com/user-attachments/assets/1f09e7ae-8bc0-403d-8ae7-ab5552c2eea6" />
 
+
 Key Insights From the Diabetes Prediction Model: 
+
 1. Glucose as the Primary Predictor
 Glucose levels showed the strongest correlation with diabetes outcome in the dataset. Individuals with higher glucose values are significantly more likely to be classified as diabetic by the model. This confirms glucose as the most influential clinical parameter in predicting diabetes risk.
 
@@ -53,6 +56,7 @@ Confusion Matrix Interpretation:
 | --------------- | ------------------ | ------------------ |
 | Actual Negative | ✅ 85 Correct       | ❌ 12 Misclassified |
 | Actual Positive | ❌ 19 Missed        | ✅ 38 Correct       |
+
 Model identifies non-diabetic patients very well
 Misses some diabetic cases (common in medical ML)
 📌 Conclusion: Model is slightly conservative — err on safe side for screening.
