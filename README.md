@@ -17,7 +17,7 @@ PROJECT HIGHLIGHTS
 Key features in dataset:
 Pregnancies, Glucose, Blood Pressure, Skin Thickness, Insulin, BMI, Diabetes Pedigree Function, Age.
 
-🔧 Tech Stack
+🔧 Tech Stack: 
 Python
 Jupyter Notebook
 Scikit-Learn
